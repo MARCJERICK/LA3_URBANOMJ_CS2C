@@ -1,6 +1,6 @@
+// Importing the prompt-sync
 const ps = require("prompt-sync");
 const prompt = ps();
-
 // Prompt user to input their score
 let score = prompt("Input your score here: ");
 
